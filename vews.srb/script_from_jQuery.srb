@@ -1,0 +1,9 @@
+<script type="text/javascript">
+
+$(function() {
+
+    // Тут я могу написать любой javascript код, который исполнится
+    // после загрузки всей страницы.
+})
+
+</script>
